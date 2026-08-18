@@ -1,0 +1,15 @@
+{
+  "defaultProvider": "opencode-go",
+  "defaultModel": "deepseek-v4-flash",
+  "defaultThinkingLevel": "high",
+  "theme": "dracula",
+  "packages": [
+    "npm:@ff-labs/pi-fff",
+    "npm:@tintinweb/pi-subagents",
+    "npm:@tintinweb/pi-tasks",
+    "npm:pi-agent-browser-native",
+    "npm:pi-tool-repair",
+    "npm:pi-web-access"
+  ],
+  "lastChangelogVersion": "0.84.2"
+}
