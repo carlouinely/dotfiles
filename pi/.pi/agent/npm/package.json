@@ -3,10 +3,9 @@
   "private": true,
   "dependencies": {
     "@ff-labs/pi-fff": "^0.10.5",
-    "@tintinweb/pi-subagents": "^0.17.0",
+    "@tintinweb/pi-subagents": "^0.17.1",
     "@tintinweb/pi-tasks": "^0.8.0",
     "pi-agent-browser-native": "^0.3.0",
-    "pi-tool-repair": "^0.2.1",
-    "pi-web-access": "^0.23.0"
+    "pi-tool-repair": "^0.2.1"
   }
 }

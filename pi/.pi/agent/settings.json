@@ -8,8 +8,7 @@
     "npm:@tintinweb/pi-subagents",
     "npm:@tintinweb/pi-tasks",
     "npm:pi-agent-browser-native",
-    "npm:pi-tool-repair",
-    "npm:pi-web-access"
+    "npm:pi-tool-repair"
   ],
   "lastChangelogVersion": "0.84.2"
 }
